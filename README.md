@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an enthusiastic full-stack developer and a Navy veteran with expertise in both front-end and back-end technologies. My passion lies in creating awesome software solutions that leave a lasting impact.<br><br><br><br><br>
+"Navy vet turned coding maestro, I sail through complex code seas, armed with Java and JavaScript, crafting full-stack wonders on the digital horizon!"<br><br><br><br><br>
 
 
 ## 🌐 Socials:
