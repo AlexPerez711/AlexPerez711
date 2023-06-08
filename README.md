@@ -21,10 +21,6 @@ Navy vet turned coding maestro, I sail through complex code seas, armed with Jav
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AlexPerez711&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=AlexPerez711&icon=4&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
