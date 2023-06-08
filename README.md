@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Navy vet turned coding maestro, I sail through complex code seas, armed with Java and JavaScript, crafting full-stack wonders on the digital horizon!"<br><br><br><br><br>
+Navy vet turned coding maestro, I sail through complex code seas, armed with Java and JavaScript, crafting full-stack wonders on the digital horizon!<br><br><br><br><br>
 
 
 ## 🌐 Socials:
